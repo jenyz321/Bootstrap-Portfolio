@@ -1,0 +1,38 @@
+.nav {
+    background-color: rebeccapurple;
+    padding: 10px;
+}
+body {
+  background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 980px) {
+    image-rendering: 980px;
+  
+  }
+  @media screen and (max-width: 768px) {
+    image-rendering: 768px;
+    
+  }
+  @media screen and (max-width: 640px) {
+     #masthead { 
+      display: static;
+      float: none;
+      text-align: center;
+    }
+    .container {
+      max-width: 640px;
+      float: none;
+    } 
+    image-rendering: 640px;
+  }
