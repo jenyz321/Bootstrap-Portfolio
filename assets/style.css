@@ -1,9 +1,14 @@
-.nav {
-    background-color: rebeccapurple;
-    padding: 10px;
+.navbar-brand {
+  font-size: 50px;
 }
 body {
-  background-color: aqua;
+  background-color: rgb(119, 189, 255);
+  font-family: 'Saira Extra Condensed', sans-serif;
+  font-size: 30px;
+  color: black;
+}
+a {
+  color: rgba(243, 6, 6, 0.863);
 }
 
 
