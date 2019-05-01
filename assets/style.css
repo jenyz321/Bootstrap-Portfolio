@@ -2,13 +2,15 @@
   font-size: 50px;
 }
 body {
-  background-color: rgb(119, 189, 255);
-  font-family: 'Saira Extra Condensed', sans-serif;
+  background-image: url("../assets/images/window.jpg");
+  font-family: 'Gugi', cursive;
+  font-family: 'Arvo', serif;;
+  font-weight: bolder;
   font-size: 30px;
-  color: black;
+  color:black;
 }
 a {
-  color: rgba(243, 6, 6, 0.863);
+  color:whitesmoke;
 }
 
 
