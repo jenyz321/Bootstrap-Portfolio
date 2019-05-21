@@ -4,7 +4,7 @@ Homework Assignment  in UCF Coding Bootcamp
 
 ## Getting Started
 
-click the link to get started! https://jenyz321.github.io/Bootstrap-Portfolio/
+click the link to get started! https://jenyz321.github.io/MyPortfolio/
 
 
 ### Instructions
